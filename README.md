@@ -1,2 +1,2 @@
-# MogutnovY.R.
+# MogutnovYR
 programs
